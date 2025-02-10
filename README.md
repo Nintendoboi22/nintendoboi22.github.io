@@ -5,7 +5,6 @@
 
 > # TODO list
 -  **Add more games**
--  [Google WebApp](https://support.google.com/googleplay/work/answer/9147423?hl=en)
 
 ---
 [![Join the discord?](https://invidget.switchblade.xyz/XczEHXJKGe)](https://discord.gg/XczEHXJKGe)
